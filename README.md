@@ -52,4 +52,4 @@ README.md – Comprehensive data story.
 
 Evidence of LLM Assistance
 
-This PR was generated with LLM support (Jules/Codex-style assistance), including code creation, visualization setup, and narrative structure.
+
