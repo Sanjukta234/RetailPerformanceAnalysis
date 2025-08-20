@@ -1,9 +1,11 @@
 📊 Retail Performance Analysis – Inventory Turnover (2024)
+22f1001636@ds.study.iitm.ac.in
 
 Author: 22f1001636@ds.study.iitm.ac.in
 Generated with assistance from ChatGPT Codex: https://chatgpt.com/codex/tasks
 
 Summary
+22f1001636@ds.study.iitm.ac.in
 
 This PR adds a complete data analysis package for the company’s 2024 Inventory Turnover Ratio, benchmarking performance against the industry target of 8. It includes Python analysis code, dataset, visualizations, and a comprehensive data story in the README.md.
 
