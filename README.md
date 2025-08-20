@@ -1,6 +1,7 @@
 📊 Retail Performance Analysis – Inventory Turnover (2024)
 
 Author: 22f1001636@ds.study.iitm.ac.in
+Generated with assistance from ChatGPT Codex: https://chatgpt.com/codex/tasks
 
 Summary
 
