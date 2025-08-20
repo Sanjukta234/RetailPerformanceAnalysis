@@ -48,8 +48,8 @@ turnover_trend.png – Line chart vs. target.
 
 turnover_bars.png – Bar chart vs. target.
 
-README.md – Comprehensive data story.
+README.md – Comprehensive data story.ok
 
-Evidence of LLM Assistance
+Evidence of LLM Assistance.
 
-
+This PR was generated with LLM support (Jules/Codex-style assistance), including code creation, visualization setup, and narrative structure.
