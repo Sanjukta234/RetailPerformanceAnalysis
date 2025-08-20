@@ -1,55 +1,32 @@
-📊 Retail Performance Analysis – Inventory Turnover (2024)
+# Retail Performance Analysis
 
-Author: 22f1001636@ds.study.iitm.ac.in
+## Key Findings
+- Quarterly Inventory Turnover Ratios (2024):
+  - Q1: -0.68
+  - Q2: 8.04
+  - Q3: 4.28
+  - Q4: 7.88
+- **Average Inventory Turnover Ratio: 4.88**
+- Industry Target: 8.00
 
-Summary
+## Business Implications
+- The company’s inventory turnover ratio (4.88) is significantly below the industry benchmark (8).
+- This indicates **excess inventory and storage costs**, impacting cash flow and profitability.
+- Volatility in Q1 and Q3 suggests inefficiencies in supply chain and demand forecasting.
 
-This PR adds a complete data analysis package for the company’s 2024 Inventory Turnover Ratio, benchmarking performance against the industry target of 8. It includes Python analysis code, dataset, visualizations, and a comprehensive data story in the README.md.
+## Recommendations
+To reach the industry target of 8, the company should:
+1. **Optimize supply chain operations** by improving vendor lead times and reducing overstocking.  
+2. **Enhance demand forecasting** through advanced analytics and AI-driven predictive models.  
+3. Implement **just-in-time (JIT) inventory practices** to reduce storage costs.  
+4. Strengthen coordination between **sales, marketing, and procurement teams** to align demand and supply.
 
-Key Findings
+## Visualization
+The analysis includes:
+- A trend line chart comparing quarterly turnover ratios with the industry benchmark.
+- A bar chart showing quarterly fluctuations.
 
-Average turnover (2024): 4.88, below the industry benchmark of 8.
+---
 
-Volatility observed: Q1 anomaly (-0.68), Q2 peak (8.04), Q3 dip (4.28), Q4 recovery (7.88).
-
-Indicates excess inventory, capital lock-up, and higher carrying/storage costs.
-
-Short-lived recoveries suggest gaps in forecast accuracy and inventory management.
-
-Business Implications
-
-Capital tie-up in slow-moving SKUs, limiting financial flexibility.
-
-Higher operational/storage costs and increased risk of obsolescence.
-
-Forecasting challenges leading to mismatched supply vs. demand.
-
-Recommendations
-
-Solution theme: Optimize supply chain and demand forecasting
-
-Enhance demand forecasting (hierarchical models, external drivers, weekly re-forecasting).
-
-Optimize inventory policies (safety stock, reorder points, SKU rationalization).
-
-Strengthen supply chain execution (supplier lead-time reduction, MEIO, cycle counting).
-
-Align promotion & pricing with supply-demand signals.
-
-Improve governance (dashboards, KPIs, incentive alignment).
-
-Files Added
-
-analysis.py – Python code to process data and generate plots.
-
-inventory_turnover_2024.csv – Quarterly dataset.
-
-turnover_trend.png – Line chart vs. target.
-
-turnover_bars.png – Bar chart vs. target.
-
-README.md – Comprehensive data story.
-
-Evidence of LLM Assistance
-
-This PR was generated with LLM support (Jules/Codex-style assistance), including code creation, visualization setup, and narrative structure.
+### Verification  
+Author Email: 22f1001636@ds.study.iitm.ac.in  
